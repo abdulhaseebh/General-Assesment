@@ -1,0 +1,16 @@
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.csproj.AssemblyReference.cache
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.AssemblyInfo.cs
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.exe
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.deps.json
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.runtimeconfig.json
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.runtimeconfig.dev.json
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.dll
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\ref\GeneralAssesment.dll
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\bin\Debug\net5.0\GeneralAssesment.pdb
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.dll
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\ref\GeneralAssesment.dll
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.pdb
+C:\Users\USER\desktop\GeneralAssesment\Chapter3\obj\Debug\net5.0\GeneralAssesment.genruntimeconfig.cache
