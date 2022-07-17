@@ -6,8 +6,8 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----------Question 5-----------");
-            
+            Console.WriteLine("----------Question 1-----------");
+             
 
             Console.WriteLine("----------Question 6---------");
             Console.WriteLine("Enter your gender: ");
